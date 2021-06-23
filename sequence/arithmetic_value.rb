@@ -2,7 +2,7 @@
 
 #init = 初項
 #diff = 公差
-#n = 何項
+#n = 第何項
 
 def arithmetic(init, diff, n)
   init + (n-1) * diff 
