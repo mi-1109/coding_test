@@ -3,7 +3,7 @@ num = []
 num[1] = 0;
 num[2] = 0;
 num[3] = 0;
-num[3] = 1;
+num[4] = 1;
 print "0 0 0 1"
 
 for i in 3..50
